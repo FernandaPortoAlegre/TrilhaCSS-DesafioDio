@@ -90,17 +90,17 @@ h2 {
 
   }
 
-  #course-content {
+  #information {
     width: 800px;
     text-align: center;
   }
  
 
-  #course-content .modules-list {
+  #information .FirstBox {
     margin: 24px 0;
   }
 
-  #course-content .modules-list .module {
+  #information .FirstBox .module {
     color: white;
     width: 530px;
     margin: 0 auto 24px;
@@ -112,11 +112,11 @@ h2 {
 
   }
 
-  #course-content .modules-list .module span {
+  #information .FirstBox .module span {
     color: #33A8DB;
   }
 
-  #transform-world {
+  #transform {
     height: 560px;
     background-position: center;
     background-size: cover;
@@ -128,7 +128,7 @@ h2 {
     padding: 100px;
   }
 
-  #transform-world p {
+  #transform p {
     font-weight: 900;
     font-size: 2.5rem;
     text-transform: lowercase;
@@ -136,12 +136,12 @@ h2 {
     text-shadow: 3px 2px #33A8DB;
   }
 
-  #professional-challenges {
+  #reviews {
     text-align: center;
     width: 800px;
   }
 
-  #professional-challenges img {
+  #reviews img {
     margin: 32px 0;
   }
 
